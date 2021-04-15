@@ -6,7 +6,7 @@ SRC = src/conversion_cruncher.c\
 main.c\
 
 TEST_SRC = src/conversion_cruncher.c\
-test/test_conversion_cruncher.c\
+unity/test_conversion_cruncher.c\
 
 INC = -Iinc\
 
