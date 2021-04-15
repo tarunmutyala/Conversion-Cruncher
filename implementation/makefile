@@ -5,7 +5,7 @@ BUILD = build
 SRC = src/conversion_cruncher.c\
 main.c\
 
-TEST_SRC = src/calculator_operations.c\
+TEST_SRC = src/conversion_cruncher.c\
 test/test_conversion_cruncher.c\
 
 INC = -Iinc\
